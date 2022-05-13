@@ -1,1 +1,2 @@
-去问我去饿请问我
+Git is a distributed version control system.
+Git is free software.大撒大撒大撒
